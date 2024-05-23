@@ -1,4 +1,4 @@
-# Dijkstra's Algorithm Solver using Golang
+# Dijkstra's Algorithm Solver using Golang [![Go](https://github.com/Vinayaks439/Dijkstra-Algorithm-Go/actions/workflows/go.yml/badge.svg)](https://github.com/Vinayaks439/Dijkstra-Algorithm-Go/actions/workflows/go.yml)
 
 # Usage:
 
