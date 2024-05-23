@@ -1,0 +1,69 @@
+{
+  "links" : [
+    {
+      "from" : "G",
+      "to" : "E",
+      "cost" : 1
+    },
+    {
+      "from" : "E",
+      "to" : "A",
+      "cost" : 1
+    },
+    {
+      "from" : "A",
+      "to" : "B",
+      "cost" : 1
+    },
+    {
+      "from" : "B",
+      "to" : "C",
+      "cost" : 1
+    },
+    {
+      "from" : "C",
+      "to" : "J",
+      "cost" : 4
+    },
+    {
+      "from" : "J",
+      "to" : "D",
+      "cost" : 2
+    },
+    {
+      "from" : "D",
+      "to" : "H",
+      "cost" : 1
+    },
+    {
+      "from" : "H",
+      "to" : "D",
+      "cost" : 1
+    },
+    {
+      "from" : "E",
+      "to" : "D",
+      "cost" : 5
+    },
+    {
+      "from" : "G",
+      "to" : "C",
+      "cost" : 1
+    },
+    {
+      "from" : "D",
+      "to" : "K",
+      "cost" : 5
+    },
+    {
+      "from" : "F",
+      "to" : "K",
+      "cost" : 1
+    },
+    {
+      "from" : "F",
+      "to" : "C",
+      "cost" : 3
+    }
+  ]
+}
